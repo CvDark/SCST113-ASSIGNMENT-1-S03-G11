@@ -4,9 +4,9 @@ ASSIGNMENT 1 – INDUSTRY TALK 1: CREATIVE THINKING
 Group code: S03-G11
 Log activity
 
-| No | Date | Member | Task | Source / search / AI prompt used | Output / GitHub link |
-|----|------|--------|------|----------------------------------|----------------------|
-| 1  |      |        |      |                                  |                      |
-| 2  |      |        |      |                                  |                      |
-| 3  |      |        |      |                                  |                      |
-| 4  |      |        |      |                                  |                      |
+| No | Date          | Member                                 | Task          | Source / search / AI prompt used                        | Output / GitHub link |
+|----|---------------|----------------------------------------|---------------|---------------------------------------------------------|----------------------|
+| 1  | 16/11/2026    |Muhammad Naufal bin Mohd Radzuan        |HOTs           |Defining Hots,3 levels of thinking skils                 |                      |
+| 2  |               |                                        |               |                                                         |                      |
+| 3  |               |                                        |               |                                                         |                      |
+| 4  |               |                                        |               |                                                         |                      |
