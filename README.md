@@ -7,6 +7,7 @@ Log activity
 | No | Date          | Member                                 | Task          | Source / search / AI prompt used                        | Output / GitHub link |
 |----|---------------|----------------------------------------|---------------|---------------------------------------------------------|----------------------|
 | 1  | 16/11/2026    |Muhammad Naufal bin Mohd Radzuan        |HOTs           |Defining Hots,3 levels of thinking skils                 |                      |
-| 2  | 19/11/2026    |Teo Ke Xuan                             |Applying HOTS and define thinking skill |Prepared Mathematical Thinking, Scientific Thinking, Applying HOTS and personal reflection |                      |
-| 3  | 19/11/2026    |Muhammad Naufal bin Mohd Radzuan        |Ensure answer was follow the rubcric               |                                                         |                      |
-| 4  |               |                                        |               |                                                         |                      |
+| 2  | 18/11/2026     |Muhammad Naufal bin Mohd Radzuan        |Creative thinking and reflection| what is creative thinking              |                      |
+| 3  | 19/11/2026    |Teo Ke Xuan                             |Applying HOTS and define thinking skill |Prepared Mathematical Thinking, Scientific Thinking, Applying HOTS and personal reflection |                      |
+| 4  | 19/11/2026    |Muhammad Naufal bin Mohd Radzuan        |Ensure answer was follow the rubcric               |                                                         |                      |
+| 5  |               |                                        |               |                                                         |                      |
