@@ -8,5 +8,5 @@ Log activity
 |----|---------------|----------------------------------------|---------------|---------------------------------------------------------|----------------------|
 | 1  | 16/11/2026    |Muhammad Naufal bin Mohd Radzuan        |HOTs           |Defining Hots,3 levels of thinking skils                 |                      |
 | 2  | 19/11/2026    |Teo Ke Xuan                             |Applying HOTS and define thinking skill |Prepared Mathematical Thinking, Scientific Thinking, Applying HOTS and personal reflection |                      |
-| 3  |               |                                        |               |                                                         |                      |
+| 3  | 19/11/2026    |Muhammad Naufal bin Mohd Radzuan        |Ensure answer was follow the rubcric               |                                                         |                      |
 | 4  |               |                                        |               |                                                         |                      |
