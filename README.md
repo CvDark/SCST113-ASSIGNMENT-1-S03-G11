@@ -11,4 +11,4 @@ Log activity
 | 3  | 18/11/2026    |Syaza Hazirah binti Supeno              |Critical Thinking and  reflection
 | 4  | 19/11/2026    |Teo Ke Xuan                             |Applying HOTS and define thinking skill |Prepared Mathematical Thinking, Scientific Thinking, Applying HOTS and personal reflection |                      |
 | 5 |  19/11/2026    |Muhammad Naufal bin Mohd Radzuan        |Ensure answer was follow the rubcric               |                                                    |                      |
-| 6 |               |                                        |               |                                                         |                      |
+| 6 |  19/11/2026    |Muhamamd Naufal bin Mohd Radzuan      |writing              |ensure report have correct format,making justify                                                         |                      |
