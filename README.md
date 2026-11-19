@@ -7,6 +7,6 @@ Log activity
 | No | Date          | Member                                 | Task          | Source / search / AI prompt used                        | Output / GitHub link |
 |----|---------------|----------------------------------------|---------------|---------------------------------------------------------|----------------------|
 | 1  | 16/11/2026    |Muhammad Naufal bin Mohd Radzuan        |HOTs           |Defining Hots,3 levels of thinking skils                 |                      |
-| 2  |               |                                        |               |                                                         |                      |
+| 2  | 19/11/2026    |Teo Ke Xuan                             |Applying Hots and define thinking skill |Prepared Mathematical Thinking, Scientific Thinking, Applying HOTS and personal reflection |                      |
 | 3  |               |                                        |               |                                                         |                      |
 | 4  |               |                                        |               |                                                         |                      |
